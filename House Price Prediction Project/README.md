@@ -141,17 +141,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 🔮 Future Improvements
-
-- Build an end-to-end ML pipeline
-- Add experiment tracking using MLflow
-- Version datasets using DVC
-- Deploy the model using FastAPI/Flask
-- Containerize with Docker
-- Automate training and deployment with GitHub Actions
-
----
-
 ## 📜 License
 
 This project is created for learning and educational purposes.
